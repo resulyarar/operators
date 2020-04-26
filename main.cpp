@@ -26,5 +26,6 @@ int main()
     cout<< "mantiksal sonuc 1: " <<a<<endl;
     a=sayi1<sayi2||sayi1!=sayi2;
     cout<< "mantiksal sonuc 2: "<<a<<endl;
+
     return 0;
 }
